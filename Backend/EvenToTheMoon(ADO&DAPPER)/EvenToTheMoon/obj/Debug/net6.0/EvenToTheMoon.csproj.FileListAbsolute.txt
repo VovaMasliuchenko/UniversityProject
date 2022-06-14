@@ -1,0 +1,988 @@
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\appsettings.Development.json
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\appsettings.json
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.exe
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.deps.json
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.runtimeconfig.json
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.pdb
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\AutoMapper.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Dapper.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Humanizer.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\MessagePack.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Common.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.BLL.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.DAL.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.BLL.pdb
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.DAL.pdb
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.AssemblyReference.cache
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.AssemblyInfoInputs.cache
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.AssemblyInfo.cs
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.CoreCompileInputs.cache
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.MvcApplicationPartsAssemblyInfo.cs
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.MvcApplicationPartsAssemblyInfo.cache
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\staticwebassets.build.json
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\staticwebassets.development.json
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\scopedcss\bundle\EvenToTheMoon.styles.css
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.CopyComplete
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\refint\EvenToTheMoon.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.pdb
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.genruntimeconfig.cache
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\ref\EvenToTheMoon.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\appsettings.Development.json
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\appsettings.json
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.exe
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.deps.json
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.runtimeconfig.json
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.pdb
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\AutoMapper.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Dapper.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Humanizer.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\MessagePack.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Common.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.BLL.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.DAL.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.BLL.pdb
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.DAL.pdb
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.AssemblyReference.cache
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.AssemblyInfoInputs.cache
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.AssemblyInfo.cs
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.CoreCompileInputs.cache
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.MvcApplicationPartsAssemblyInfo.cs
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.MvcApplicationPartsAssemblyInfo.cache
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\staticwebassets.build.json
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\staticwebassets.development.json
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\scopedcss\bundle\EvenToTheMoon.styles.css
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.CopyComplete
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\refint\EvenToTheMoon.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.pdb
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.genruntimeconfig.cache
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon\obj\Debug\net6.0\ref\EvenToTheMoon.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\appsettings.Development.json
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\appsettings.json
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.exe
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.deps.json
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.runtimeconfig.json
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.pdb
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\AutoMapper.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Dapper.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Humanizer.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\MessagePack.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Common.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.BLL.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.DAL.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.BLL.pdb
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.DAL.pdb
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.AssemblyReference.cache
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.AssemblyInfoInputs.cache
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.AssemblyInfo.cs
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.CoreCompileInputs.cache
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.MvcApplicationPartsAssemblyInfo.cs
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.MvcApplicationPartsAssemblyInfo.cache
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\staticwebassets.build.json
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\staticwebassets.development.json
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\scopedcss\bundle\EvenToTheMoon.styles.css
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.CopyComplete
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\refint\EvenToTheMoon.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.pdb
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.genruntimeconfig.cache
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon\obj\Debug\net6.0\ref\EvenToTheMoon.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\appsettings.Development.json
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\appsettings.json
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.exe
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.deps.json
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.runtimeconfig.json
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.pdb
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\AutoMapper.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Dapper.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Humanizer.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\MessagePack.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Common.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.BLL.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.DAL.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.BLL.pdb
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\bin\Debug\net6.0\EvenToTheMoon.DAL.pdb
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.AssemblyReference.cache
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.AssemblyInfoInputs.cache
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.AssemblyInfo.cs
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.CoreCompileInputs.cache
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.MvcApplicationPartsAssemblyInfo.cs
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.MvcApplicationPartsAssemblyInfo.cache
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\staticwebassets.build.json
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\staticwebassets.development.json
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\scopedcss\bundle\EvenToTheMoon.styles.css
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.csproj.CopyComplete
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\refint\EvenToTheMoon.dll
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.pdb
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\EvenToTheMoon.genruntimeconfig.cache
+D:\University\Project\Backend\EvenToTheMoon(ADO&DAPPER)\EvenToTheMoon\obj\Debug\net6.0\ref\EvenToTheMoon.dll

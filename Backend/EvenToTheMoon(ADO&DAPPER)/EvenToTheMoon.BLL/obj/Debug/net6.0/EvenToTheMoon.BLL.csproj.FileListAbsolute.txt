@@ -1,0 +1,45 @@
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.BLL.deps.json
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.BLL.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.BLL.pdb
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.DAL.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.DAL.pdb
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.csproj.AssemblyReference.cache
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.AssemblyInfoInputs.cache
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.AssemblyInfo.cs
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.csproj.CoreCompileInputs.cache
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.csproj.CopyComplete
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\refint\EvenToTheMoon.BLL.dll
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.pdb
+D:\УНИВЕР\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\ref\EvenToTheMoon.BLL.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.BLL.deps.json
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.BLL.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.BLL.pdb
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.DAL.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.DAL.pdb
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.csproj.AssemblyReference.cache
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.AssemblyInfoInputs.cache
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.AssemblyInfo.cs
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.csproj.CoreCompileInputs.cache
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.csproj.CopyComplete
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\refint\EvenToTheMoon.BLL.dll
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.pdb
+D:\University\Project\Backend\EvenToTheMoon\EvenToTheMoon.BLL\obj\Debug\net6.0\ref\EvenToTheMoon.BLL.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.BLL.deps.json
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.BLL.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.BLL.pdb
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.DAL.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\bin\Debug\net6.0\EvenToTheMoon.DAL.pdb
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.csproj.AssemblyReference.cache
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.AssemblyInfoInputs.cache
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.AssemblyInfo.cs
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.csproj.CoreCompileInputs.cache
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.csproj.CopyComplete
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\obj\Debug\net6.0\refint\EvenToTheMoon.BLL.dll
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\obj\Debug\net6.0\EvenToTheMoon.BLL.pdb
+D:\University\Project\Project\EvenToTheMoon(ADO & DAPPER)\EvenToTheMoon.BLL\obj\Debug\net6.0\ref\EvenToTheMoon.BLL.dll
