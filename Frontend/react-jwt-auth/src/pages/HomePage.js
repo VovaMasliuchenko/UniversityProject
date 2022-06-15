@@ -1,5 +1,13 @@
+import { useHistory } from "react-router-dom";
 
 function HomePage() {
+
+  function handleClick() {
+    window.location.href = '/login';
+    localStorage.removeItem("token");
+  }
+
+  
     return (
       <div>
         <header class="p-3 bg-dark text-white">
@@ -22,7 +30,7 @@ function HomePage() {
         </form>
 
         <div class="text-end">
-          <button type="button" class="btn btn-warning" onClick={ () => localStorage.removeItem("token")}>Logout</button>
+          <button type="button" class="btn btn-warning" onClick={ () => handleClick()} >Logout</button>
         </div>
       </div>
     </div>
@@ -45,6 +53,4 @@ function HomePage() {
       </div>
     );
   }
-  
-  export default HomePage;
-  
+export default HomePage;

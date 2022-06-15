@@ -21,4 +21,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\PagedList\" />
+    <Folder Include="Entities\Models\" />
+  </ItemGroup>
+
 </Project>

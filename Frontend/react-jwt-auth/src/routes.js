@@ -5,6 +5,7 @@ import RouteGuard from "./components/RouteGuard"
 //pages
 import HomePage from "./pages/HomePage"
 import LoginPage from "./pages/Login"
+import Register from "./pages/Register";
 
 function Routes() {
     return (
@@ -12,12 +13,16 @@ function Routes() {
             <Switch>
                 <RouteGuard
                     exact
-                    path="/home"
+                    path="/"
                     component={HomePage}
                 />
                 <Route
                     path="/login"
                     component={LoginPage}
+                />
+                <Route
+                    path="/register"
+                    component={Register}
                 />
             </Switch>
         </BrowserRouter>

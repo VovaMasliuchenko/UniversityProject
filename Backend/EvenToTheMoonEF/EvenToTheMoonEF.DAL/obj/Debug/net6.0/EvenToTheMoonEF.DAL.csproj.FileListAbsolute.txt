@@ -40,3 +40,17 @@ C:\Users\Vova\Desktop\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\refin
 C:\Users\Vova\Desktop\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\EvenToTheMoonEF.DAL.pdb
 C:\Users\Vova\Desktop\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\EvenToTheMoonEF.DAL.genruntimeconfig.cache
 C:\Users\Vova\Desktop\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\ref\EvenToTheMoonEF.DAL.dll
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\bin\Debug\net6.0\EvenToTheMoonEF.DAL.deps.json
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\bin\Debug\net6.0\EvenToTheMoonEF.DAL.runtimeconfig.json
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\bin\Debug\net6.0\EvenToTheMoonEF.DAL.dll
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\bin\Debug\net6.0\EvenToTheMoonEF.DAL.pdb
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\EvenToTheMoonEF.DAL.csproj.AssemblyReference.cache
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\EvenToTheMoonEF.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\EvenToTheMoonEF.DAL.AssemblyInfoInputs.cache
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\EvenToTheMoonEF.DAL.AssemblyInfo.cs
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\EvenToTheMoonEF.DAL.csproj.CoreCompileInputs.cache
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\EvenToTheMoonEF.DAL.dll
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\refint\EvenToTheMoonEF.DAL.dll
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\EvenToTheMoonEF.DAL.pdb
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\EvenToTheMoonEF.DAL.genruntimeconfig.cache
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF.DAL\obj\Debug\net6.0\ref\EvenToTheMoonEF.DAL.dll

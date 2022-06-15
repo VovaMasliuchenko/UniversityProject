@@ -8,6 +8,8 @@ namespace EvenToTheMoon_EF_.DTO.Responses
 {
     public class ReviewResponse
     {
+        public string Username { get; set; }
+        public string Tour { get; set; }
         public string Review { get; set; }
     }
 }

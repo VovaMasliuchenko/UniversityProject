@@ -11,13 +11,12 @@ using EvenToTheMoonEF.DAL.Entities;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using EvenToTheMoon_EF_.BLL.Interfaces.Services;
+using BLL.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
-builder.Services.AddMapper();
-builder.Services.AddServices();
 
 builder.Services.AddDbContext<EvenToTheMoonDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 // For Identity
@@ -27,6 +26,7 @@ builder.Services.AddIdentity<Clients, IdentityRole>()
 builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
 builder.Services.AddScoped<ISellsRepository, SellsRepository>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<IReviewService, ReviewService>();
 
 builder.Services.AddControllers();
 
@@ -56,6 +56,8 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
+builder.Services.AddMapper();
+builder.Services.AddServices();
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
