@@ -50,9 +50,11 @@ namespace BLL.Services
             throw new NotImplementedException();
         }
 
-        public Task<int> InsertAsync(ReviewRequest request)
+        public async Task InsertAsync(ReviewRequest request)
         {
-            throw new NotImplementedException();
+            var review = mapper.Map<ReviewRequest, Reviews>(request);
+            await unitOfWork.ReviewRepository.InsertAsync(review);
+            await unitOfWork.SaveChangesAsync();
         }
 
         public Task UpdateAsync(ReviewRequest request)

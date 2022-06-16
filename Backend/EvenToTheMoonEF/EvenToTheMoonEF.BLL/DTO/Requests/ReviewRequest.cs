@@ -9,6 +9,7 @@ namespace EvenToTheMoon_EF_.BLL.DTO.Requests;
 
     public class ReviewRequest
     {
-    public int id { get; set; }
+    public string ID_Clients { get; set; }
+    public int ID_Tour { get; set; }
     public string Review { get; set; }
-}
+    }

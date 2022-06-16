@@ -34,11 +34,8 @@ namespace EvenToTheMoonEF.DAL.Data.Repositories
             return await table.FindAsync(id);
         }
 
-        public async Task Insert(T obj)
-        {
-            table.Add(obj);
-            await context.SaveChangesAsync();
-        }
+        public async Task InsertAsync(T entity) =>
+            await table.AddAsync(entity);
 
         public async void Update(T obj)
         {

@@ -290,3 +290,4 @@ D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF\obj\Debu
 D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF\obj\Debug\net6.0\EvenToTheMoonEF.pdb
 D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF\obj\Debug\net6.0\EvenToTheMoonEF.genruntimeconfig.cache
 D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF\obj\Debug\net6.0\ref\EvenToTheMoonEF.dll
+D:\University\UniversityProject\Backend\EvenToTheMoonEF\EvenToTheMoonEF\bin\Debug\net6.0\FluentValidation.dll

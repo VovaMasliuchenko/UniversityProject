@@ -37,24 +37,19 @@ function Login() {
         const form = event.target;
         handleSubmit(form);
       }}>
-    <h1 className="h3 mb-3 fw-normal">Welcome</h1>
+    <h1 className="h1 mb-3 fw-normal">Welcome</h1>
 
-    <div className="form-floating">
+    <div className="form-floating mb-2">
       <input type="text" className="form-control" id="username" name="username" placeholder="Name"/>
       <label htmlFor="username">Username</label>
     </div>
-    <div className="form-floating">
+    <div className="form-floating mb-5">
       <input type="password" className="form-control" id="password" name="password" placeholder="Password"/>
       <label htmlFor="password">Password</label>
     </div>
 
-    <div className="checkbox mb-3">
-      <label>
-        <input type="checkbox" value="remember-me"/> Remember me
-      </label>
-    </div>
-    <button className="w-100 btn btn-lg btn-primary" type="submit" value="Submit">Sign in</button>
-    <button className="w-50 btn btn-lg btn-primary mt-2" onClick={() => window.location.href = '/register'}>Register</button>
+    <button className="w-100 btn btn-lg btn-dark" type="submit" value="Submit">Sign in</button>
+    <button className="w-50 btn btn-lg btn-dark mt-2" onClick={() => window.location.href = '/register'}>Register</button>
   </form>
 </main>
   );

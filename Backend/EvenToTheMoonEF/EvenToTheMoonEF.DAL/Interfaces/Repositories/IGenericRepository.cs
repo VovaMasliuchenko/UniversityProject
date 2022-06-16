@@ -11,7 +11,7 @@ namespace EvenToTheMoonEF.DAL.Interfaces.Repositories
     {
         Task<IEnumerable<T>> GetAll();
         Task<T> GetById(int id);
-        Task Insert(T obj);
+        public Task InsertAsync(T obj);
         void Update(T obj);
         void Delete(int id);
     }
