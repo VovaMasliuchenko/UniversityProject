@@ -2,8 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\EvenToTheMoon",
+    "\\EvenToTheMoon.BLL",
+    "\\EvenToTheMoon.BLL\\DTO",
+    "\\EvenToTheMoon.BLL\\DTO\\Responses",
+    "\\EvenToTheMoon.BLL\\Interfaces",
+    "\\EvenToTheMoon.BLL\\Interfaces\\Services",
+    "\\EvenToTheMoon.BLL\\Services",
+    "\\EvenToTheMoon.DAL",
     "\\EvenToTheMoon\\Controllers"
   ],
-  "SelectedNode": "\\EvenToTheMoon.sln",
+  "SelectedNode": "\\EvenToTheMoon.DAL\\bin",
   "PreviewInSolutionExplorer": false
 }

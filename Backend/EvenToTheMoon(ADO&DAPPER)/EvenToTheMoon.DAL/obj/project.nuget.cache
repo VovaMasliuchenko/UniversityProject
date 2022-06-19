@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jm3VrXQ1kx7VQYrmVVVQloZYm08gwKdOLGTawjDbkqduqodFMPrNZCioHWemhr+LWhg6r2G9fGHYb1R1Yk7LoQ==",
+  "dgSpecHash": "UMvpf07VZW627RZFGnlNunkZl/qB6S4jQqVUrrsMZPucN+svTRMCWnDilx5zuK9CZqCvJG8iUl44iIp/HdpHPA==",
   "success": true,
-  "projectFilePath": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj",
+  "projectFilePath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vova\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Vova\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

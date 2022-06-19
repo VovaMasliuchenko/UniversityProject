@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace EvenToTheMoonEF.DAL.Entities
 {
-    public class Clients : IdentityUser
+    public class User : IdentityUser
     {
         public string? RefreshToken { get; set; }
         public DateTime RefreshTokenExpiryTime { get; set; }

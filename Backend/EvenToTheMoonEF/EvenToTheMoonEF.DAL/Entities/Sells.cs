@@ -12,7 +12,7 @@ namespace EvenToTheMoonEF.DAL.Entities
         public DateTime DateOfSale { get; set; }
         public int SellsCount { get; set; }
         public string ID_Clients { get; set; }
-        public Clients clients { get; set; }
+        public User clients { get; set; }
         public int ID_Tour { get; set; }
         public Tours tours { get; set; }
 

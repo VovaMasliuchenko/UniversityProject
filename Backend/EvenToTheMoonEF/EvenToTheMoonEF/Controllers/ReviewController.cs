@@ -7,6 +7,7 @@ using EvenToTheMoonEF.DAL.Entities;
 using EvenToTheMoonEF.DAL.Entities.Models;
 using EvenToTheMoonEF.DAL.Interfaces;
 using FluentValidation.Results;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EvenToTheMoonEF.Controllers
@@ -29,18 +30,20 @@ namespace EvenToTheMoonEF.Controllers
             _db = db;
         }
 
-        [HttpGet("GetAllReview")]
+        /*[HttpGet("GetAllReview")]
         public async Task<ActionResult<ReviewResponse>> GetAllReview()
         {
             return Ok(await _reviewService.GetAll());
-        }
+        }*/
 
+        [AllowAnonymous]
         [HttpGet("GetReview")]
         public async Task<ActionResult<ReviewResponse>> GetReview([FromQuery] ReviewParameters reviewParameters)
         {
             return Ok(await _reviewService.GetAllPaged(reviewParameters));
         }
 
+        [AllowAnonymous]
         [HttpPost]
         public async Task<IActionResult> Add([FromBody] ReviewRequest request)
         {

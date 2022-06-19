@@ -1,14 +1,31 @@
+import axios from "axios";
+import { useEffect, useState } from "react";
 import { Carousel,Card,Button,Row,Col,Pagination } from "react-bootstrap";
 import { useHistory } from "react-router-dom";
 
 
 function HomePage() {
 
+  const [userData, setUserData] = useState()
+
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  useEffect(()=> {
+    getUserData();
+  }, [])
+
   function handleClick() {
     window.location.href = '/login';
     localStorage.removeItem("token");
   }
 
+  function getUserData() {
+    axios.get("https://localhost:7074/api/Authenticate/Me")
+      .then(response => {
+        setUserData(response.data);
+        console.log(userData);
+      })
+      .catch(err => console.log(err));
+  } 
   
     return (
       <div>
@@ -31,8 +48,9 @@ function HomePage() {
           <input type="search" className="form-control form-control-dark text-white bg-dark" placeholder="Search..." aria-label="Search"/>
         </form>
 
-        <div className="text-end">
-          <button type="button" className="btn btn-warning" onClick={ () => handleClick()} >Logout</button>
+        <div className="text-end d-flex align-items-center justify-content-center">
+        {userData ? <h1>{userData.role}</h1> : null}
+          <button type="button" className="btn btn-warning m-2" onClick={ () => handleClick()} >Logout</button>
         </div>
       </div>
     </div>
@@ -90,7 +108,7 @@ function HomePage() {
       Some quick example text to build on the card title and make up the bulk of
       the card's content.
       </Card.Text>
-      <Button variant="primary">Дізнатись більше</Button>
+      <Button variant="dark">Дізнатись більше</Button>
       </Card.Body>
       </Card>
       </Col>
@@ -107,7 +125,7 @@ function HomePage() {
       Some quick example text to build on the card title and make up the bulk of
       the card's content.
       </Card.Text>
-      <Button variant="primary">Дізнатись більше</Button>
+      <Button variant="dark">Дізнатись більше</Button>
       </Card.Body>
       </Card>
       </Col>

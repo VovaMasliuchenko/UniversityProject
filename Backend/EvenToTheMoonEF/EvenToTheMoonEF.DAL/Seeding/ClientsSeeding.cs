@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace EvenToTheMoonEF.DAL.Seeding
 {
-    public class ClientsSeeding : ISeeder<Clients>
+    public class ClientsSeeding : ISeeder<User>
     {
-        private static readonly List<Clients> clients = new List<Clients>()
+        private static readonly List<User> clients = new List<User>()
         {
-            new Clients()
+            new User()
             {
                 Id = "1",
                 UserName = "Antony Marks",
@@ -22,6 +22,6 @@ namespace EvenToTheMoonEF.DAL.Seeding
             },
         };
 
-        public void Seed(EntityTypeBuilder<Clients> builder) => builder.HasData(clients);
+        public void Seed(EntityTypeBuilder<User> builder) => builder.HasData(clients);
     }
 }

@@ -1,4 +1,6 @@
-﻿using EvenToTheMoonEF.DAL.Entities;
+﻿using EvenToTheMoonEF.BLL.DTO.Responses;
+using EvenToTheMoonEF.BLL.Helpers;
+using EvenToTheMoonEF.DAL.Entities;
 using JWTRefreshToken.NET6._0.Auth;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
@@ -15,12 +17,12 @@ namespace JWTRefreshToken.NET6._0.Controllers
     [ApiController]
     public class AuthenticateController : ControllerBase
     {
-        private readonly UserManager<Clients> _userManager;
+        private readonly UserManager<User> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly IConfiguration _configuration;
 
         public AuthenticateController(
-            UserManager<Clients> userManager,
+            UserManager<User> userManager,
             RoleManager<IdentityRole> roleManager,
             IConfiguration configuration)
         {
@@ -29,6 +31,7 @@ namespace JWTRefreshToken.NET6._0.Controllers
             _configuration = configuration;
         }
 
+        [AllowAnonymous]
         [HttpPost]
         [Route("login")]
         public async Task<IActionResult> Login([FromBody] LoginModel model)
@@ -40,14 +43,14 @@ namespace JWTRefreshToken.NET6._0.Controllers
 
                 var authClaims = new List<Claim>
                 {
+                    new Claim(ClaimTypes.NameIdentifier, user.Id),
                     new Claim(ClaimTypes.Name, user.UserName),
+                    new Claim(ClaimTypes.Email, user.Email),
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
                 };
 
-                foreach (var userRole in userRoles)
-                {
-                    authClaims.Add(new Claim(ClaimTypes.Role, userRole));
-                }
+
+                authClaims.AddRange(userRoles.Select(role => new Claim(ClaimTypes.Role, role)));
 
                 var token = CreateToken(authClaims);
                 var refreshToken = GenerateRefreshToken();
@@ -70,6 +73,7 @@ namespace JWTRefreshToken.NET6._0.Controllers
             return Unauthorized();
         }
 
+        [AllowAnonymous]
         [HttpPost]
         [Route("register")]
         public async Task<IActionResult> Register([FromBody] RegisterModel model)
@@ -78,7 +82,7 @@ namespace JWTRefreshToken.NET6._0.Controllers
             if (userExists != null)
                 return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "User already exists!" });
 
-            Clients user = new()
+            User user = new()
             {
                 Email = model.Email,
                 SecurityStamp = Guid.NewGuid().ToString(),
@@ -99,6 +103,7 @@ namespace JWTRefreshToken.NET6._0.Controllers
             return Ok(new Response { Status = "Success", Message = "User created successfully!" });
         }
 
+        [Authorize(Roles = UserRoles.Admin)]
         [HttpPost]
         [Route("register-admin")]
         public async Task<IActionResult> RegisterAdmin([FromBody] RegisterModel model)
@@ -107,7 +112,7 @@ namespace JWTRefreshToken.NET6._0.Controllers
             if (userExists != null)
                 return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "User already exists!" });
 
-            Clients user = new()
+            User user = new()
             {
                 Email = model.Email,
                 SecurityStamp = Guid.NewGuid().ToString(),
@@ -127,9 +132,10 @@ namespace JWTRefreshToken.NET6._0.Controllers
             return Ok(new Response { Status = "Success", Message = "User created successfully!" });
         }
 
+        [Authorize]
         [HttpPost]
         [Route("refresh-token")]
-        public async Task<IActionResult> RefreshToken(TokenModel tokenModel) 
+        public async Task<IActionResult> RefreshToken(TokenModel tokenModel)
         {
             if (tokenModel is null)
             {
@@ -198,6 +204,21 @@ namespace JWTRefreshToken.NET6._0.Controllers
             }
 
             return NoContent();
+        }
+
+        [Authorize]
+        [HttpGet]
+        [Route("Me")]
+        public ActionResult<UserResponse> GetIdentity() 
+        {
+            try{
+                var result = UserClaimsHelper.GetUserClaims(HttpContext);
+                return Ok(result);
+            }
+            catch (Exception e)
+            {
+                return StatusCode(500, e.Message);
+            }
         }
 
         private JwtSecurityToken CreateToken(List<Claim> authClaims)

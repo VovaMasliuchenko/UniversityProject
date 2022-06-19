@@ -23,3 +23,8 @@ code {
 .slide {
   height: 100vh;
 }
+
+.test-end {
+  display: flex;
+  flex-direction: row;
+}

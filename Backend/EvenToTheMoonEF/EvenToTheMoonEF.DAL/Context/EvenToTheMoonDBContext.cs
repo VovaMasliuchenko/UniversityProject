@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace EvenToTheMoonEF.DAL.Context
 {
-    public class EvenToTheMoonDBContext : IdentityDbContext<Clients>
+    public class EvenToTheMoonDBContext : IdentityDbContext<User>
     {
         public DbSet<Country> Country { get; set; }
         public DbSet<Discount> Discount { get; set; }

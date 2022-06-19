@@ -9,7 +9,6 @@
       "EvenToTheMoonEF/1.0.0": {
         "dependencies": {
           "EvenToTheMoonEF.BLL": "1.0.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.5",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.5",
           "Microsoft.EntityFrameworkCore": "6.0.5",
           "Microsoft.EntityFrameworkCore.Design": "6.0.5",

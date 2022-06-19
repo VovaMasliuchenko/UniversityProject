@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\EvenToTheMoon.csproj": {}
+    "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\EvenToTheMoon.csproj": {}
   },
   "projects": {
-    "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj": {
+    "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj",
+        "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj",
         "projectName": "EvenToTheMoon.BLL",
-        "projectPath": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj",
+        "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj",
         "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\obj\\",
+        "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vova\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj": {
-                "projectPath": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj"
+              "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj": {
+                "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj"
               }
             }
           }
@@ -51,6 +51,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
@@ -76,14 +80,14 @@
         }
       }
     },
-    "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj": {
+    "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj",
+        "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj",
         "projectName": "EvenToTheMoon.DAL",
-        "projectPath": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj",
+        "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj",
         "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\obj\\",
+        "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vova\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,14 +144,14 @@
         }
       }
     },
-    "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\EvenToTheMoon.csproj": {
+    "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\EvenToTheMoon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\EvenToTheMoon.csproj",
+        "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\EvenToTheMoon.csproj",
         "projectName": "EvenToTheMoon",
-        "projectPath": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\EvenToTheMoon.csproj",
+        "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\EvenToTheMoon.csproj",
         "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\obj\\",
+        "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vova\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,8 +168,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj": {
-                "projectPath": "D:\\University\\Project\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj"
+              "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj": {
+                "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj"
               }
             }
           }

@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace EvenToTheMoonEF.DAL.Configurations
 {
-    public class ClientsConfig : IEntityTypeConfiguration<Clients>
+    public class ClientsConfig : IEntityTypeConfiguration<User>
     {
-        public void Configure(EntityTypeBuilder<Clients> builder)
+        public void Configure(EntityTypeBuilder<User> builder)
         {
             new ClientsSeeding().Seed(builder);
         }

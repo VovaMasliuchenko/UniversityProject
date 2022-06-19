@@ -1,4 +1,5 @@
-﻿using EvenToTheMoon.BLL.Interfaces.Services;
+﻿using BLL.DTO.Responses;
+using EvenToTheMoon.BLL.Interfaces.Services;
 using EvenToTheMoon.DAL.Entities;
 using EvenToTheMoon.DAL.Interfaces;
 using Microsoft.AspNetCore.Http;
@@ -22,7 +23,7 @@ namespace EvenToTheMoon.Controllers
         }
 
         [HttpGet("GetTourById")]
-        public async Task<ActionResult<IEnumerable<Tours>>> GetByIdAsync(int id)
+        public async Task<ActionResult<ToursResponse>> GetByIdAsync(int id)
         {
             try
             {
