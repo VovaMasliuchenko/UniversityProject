@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zlCnQojYkwvwEO9fKPiSbuAujupiOpWPujYwVvbKLq653Gm5cpSBk/W0r8CGbHzm7bgvDeJm5RcIK+KPP1YufQ==",
+  "success": true,
+  "projectFilePath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonCA\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vova\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Vova\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Vova\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Vova\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Vova\\.nuget\\packages\\mongodb.bson\\2.16.0\\mongodb.bson.2.16.0.nupkg.sha512",
+    "C:\\Users\\Vova\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
