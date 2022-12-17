@@ -10,7 +10,6 @@ namespace EvenToTheMoonEF.DAL.Interfaces
     public interface IUnitOfWork
     {
         IReviewRepository ReviewRepository { get; }
-        ISellsRepository SellsRepository { get; }
         Task SaveChangesAsync();
     }
 }

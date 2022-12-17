@@ -11,7 +11,7 @@ import Maldives from '../../assets/maldives.jpg'
 function ImgCarousel() {
     return (
         <div name='carousel' className='container'>
-            <Carousel className='carousel' showArrows={true} autoPlay={false} infiniteLoop={true} >
+            <Carousel className='carousel' showArrows={false} autoPlay={true} infiniteLoop={true} >
                 <div>
                     <img src={BoraBora} alt='/' />
                     {/* <p className="legend">Maldives 1</p> */}

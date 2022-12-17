@@ -21,10 +21,6 @@ namespace EvenToTheMoonEF.DAL.Configurations
                    .WithMany(d => d.reviews)
                    .HasForeignKey(k => k.ID_Clients);
 
-            builder.HasOne(t => t.tours)
-                  .WithMany(d => d.reviews)
-                  .HasForeignKey(k => k.ID_Tour);
-
             builder.Property(e => e.Review)
                    .HasMaxLength(100)
                    .IsRequired();

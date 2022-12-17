@@ -30,7 +30,8 @@ function Navbar() {
                 <BsPerson className='icon' />
             </div>
             <div className="hamburger" onClick={handleNav}>
-                {!nav ? (<HiOutlineMenuAlt4 className='icon' />) : (<AiOutlineClose style={{ color: '#000' }} className='icon' />)}
+                {!nav ? (<HiOutlineMenuAlt4 className='icon' />) : 
+                (<AiOutlineClose style={{ color: '#000' }} className='icon' />)}
 
             </div>
 

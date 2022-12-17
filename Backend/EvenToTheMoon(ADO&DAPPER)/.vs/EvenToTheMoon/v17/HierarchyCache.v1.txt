@@ -1,0 +1,280 @@
+﻿++Решение "EvenToTheMoon" ‎(проекты: 3 из 3)
+i:{00000000-0000-0000-0000-000000000000}:EvenToTheMoon.sln
+++EvenToTheMoon
+i:{00000000-0000-0000-0000-000000000000}:EvenToTheMoon
+++Connected Services 
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:>1011
+++Properties
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon\properties\
+++Зависимости
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:>1010
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:>676
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:>675
+++Controllers
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon\controllers\
+++CountryController.cs
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon\controllers\countrycontroller.cs
+++TourController.cs
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon\controllers\tourcontroller.cs
+++appsettings.json
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon\appsettings.json
+++Program.cs
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon\program.cs
+++Зависимости службы не обнаружены
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:>1012
+++launchSettings.json
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon\properties\launchsettings.json
+++Анализаторы
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:анализаторы
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:анализаторы
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:анализаторы
+++Пакеты
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:пакеты
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:пакеты
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:пакеты
+++Платформы
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:платформы
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:платформы
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:платформы
+++Проекты
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:проекты
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:проекты
+++appsettings.Development.json
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon\appsettings.development.json
+++MessagePackAnalyzer
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\users\vova\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\users\vova\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\users\vova\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\users\vova\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:c:\users\vova\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:c:\users\vova\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:c:\users\vova\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore (2.2.0)
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:>1028
+++Microsoft.EntityFrameworkCore (6.0.9)
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:>1023
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:>1038
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:>1051
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:>1029
+++Newtonsoft.Json (13.0.1)
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:>1025
+++Swashbuckle.AspNetCore (6.2.3)
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:>1024
+++Swashbuckle.AspNetCore.Swagger (6.2.3)
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:>1026
+++System.Data.SqlClient (4.8.3)
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:>1027
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:>1055
+++Microsoft.AspNetCore.App
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon\microsoft.netcore.app
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\microsoft.netcore.app
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\microsoft.netcore.app
+++EvenToTheMoon.BLL
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\eventothemoon.bll.csproj
+i:{00000000-0000-0000-0000-000000000000}:EvenToTheMoon.BLL
+++Configuration
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\configuration\
+++DTO
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\
+++Interfaces
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\interfaces\
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\interfaces\
+++Services
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\interfaces\services\
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\services\
+++Registration
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\registration\
+++CountryService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\services\countryservice.cs
+++DiscountService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\services\discountservice.cs
+++HotelService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\services\hotelservice.cs
+++NutritionService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\services\nutritionservice.cs
+++TourCategoriesService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\services\tourcategoriesservice.cs
+++ToursService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\services\toursservice.cs
+++AutoMapper
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\configuration\automapper\
+++Requests
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\requests\
+++Responses
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\responses\
+++ICountryService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\interfaces\services\icountryservice.cs
+++IDiscountService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\interfaces\services\idiscountservice.cs
+++IHotelService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\interfaces\services\ihotelservice.cs
+++INutritionService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\interfaces\services\inutritionservice.cs
+++ITourCategoriesService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\interfaces\services\itourcategoriesservice.cs
+++IToursService.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\interfaces\services\itoursservice.cs
+++AutoMapperRegistrator.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\registration\automapperregistrator.cs
+++ServicesRegistrator.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\registration\servicesregistrator.cs
+++AutoMapper (11.0.1)
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:>1041
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:>1039
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.5)
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:>1042
+++Microsoft.Extensions.DependencyInjection.Abstractions (6.0.0)
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:>1040
+++EvenToTheMoon.DAL
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\eventothemoon.dal.csproj
+i:{00000000-0000-0000-0000-000000000000}:EvenToTheMoon.DAL
+++AutoMapperProfile.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\configuration\automapper\automapperprofile.cs
+++CountryRequest.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\requests\countryrequest.cs
+++DiscountRequest.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\requests\discountrequest.cs
+++HotelRequest.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\requests\hotelrequest.cs
+++NutritionRequest.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\requests\nutritionrequest.cs
+++TourCategoriesRequest.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\requests\tourcategoriesrequest.cs
+++ToursRequest.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\requests\toursrequest.cs
+++CountryResponse.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\responses\countryresponse.cs
+++DiscountResponse.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\responses\discountresponse.cs
+++HotelResponse.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\responses\hotelresponse.cs
+++NutritionResponse.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\responses\nutritionresponse.cs
+++TourCategoriesResponse.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\responses\tourcategoriesresponse.cs
+++ToursResponse.cs
+i:{0ad2b599-0175-4842-87bd-831c5f004355}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.bll\dto\responses\toursresponse.cs
+++Configurations
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\configurations\
+++CountryConfig.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\configurations\countryconfig.cs
+++DiscountConfig.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\configurations\discountconfig.cs
+++HotelConfig.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\configurations\hotelconfig.cs
+++NutritionConfig.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\configurations\nutritionconfig.cs
+++TourCategoriesConfig.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\configurations\tourcategoriesconfig.cs
+++ToursConfig.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\configurations\toursconfig.cs
+++Context
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\context\
+++EvenToTheMoonDBContext.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\context\eventothemoondbcontext.cs
+++Data
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\data\
+++Entities
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\entities\
+++Repositories
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\interfaces\repositories\
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\data\repositories\
+++ICountryRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\interfaces\repositories\icountryrepository.cs
+++IDiscountRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\interfaces\repositories\idiscountrepository.cs
+++IGenericRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\interfaces\repositories\igenericrepository.cs
+++IHotelRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\interfaces\repositories\ihotelrepository.cs
+++INutritionRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\interfaces\repositories\inutritionrepository.cs
+++ITourCategoriesRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\interfaces\repositories\itourcategoriesrepository.cs
+++IToursRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\interfaces\repositories\itoursrepository.cs
+++IUnitOfWork.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\interfaces\iunitofwork.cs
+++UnitOfWork.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\data\unitofwork.cs
+++Base
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\entities\base\
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\data\repositories\base\
+++Country.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\entities\country.cs
+++Discount.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\entities\discount.cs
+++Hotel.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\entities\hotel.cs
+++Nutrition.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\entities\nutrition.cs
+++TourCategories.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\entities\tourcategories.cs
+++Tours.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\entities\tours.cs
+++Dapper (2.0.123)
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:>1054
+++Microsoft.EntityFrameworkCore.Design (6.0.9)
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:>1053
+++Microsoft.EntityFrameworkCore.Tools (6.0.9)
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:>1056
+++System.Diagnostics.Tools (4.3.0)
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:>1052
+++CountryRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\data\repositories\countryrepository.cs
+++DiscountRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\data\repositories\discountrepository.cs
+++HotelRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\data\repositories\hotelrepository.cs
+++NutritionRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\data\repositories\nutritionrepository.cs
+++TourCategoriesRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\data\repositories\tourcategoriesrepository.cs
+++ToursRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\data\repositories\toursrepository.cs
+++Entity.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\entities\base\entity.cs
+++GenericRepository.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\data\repositories\base\genericrepository.cs
+++ContextFactory.cs
+i:{623bdd6e-d626-4899-b106-82fa5977b81b}:d:\university\universityproject\backend\eventothemoon(ado&dapper)\eventothemoon.dal\context\contextfactory.cs
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.9)
+i:{a42a407b-db7e-4ca5-b670-881126bc894c}:>1101

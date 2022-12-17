@@ -3,7 +3,9 @@ using EvenToTheMoon.DAL.Data;
 using EvenToTheMoon.DAL.Data.Repositories;
 using EvenToTheMoon.DAL.Interfaces;
 using EvenToTheMoon.DAL.Interfaces.Repositories;
+using EvenToTheMoonEF.DAL.Context;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Data;
 using System.Data.SqlClient;
@@ -50,6 +52,11 @@ builder.Services.AddScoped<INutritionRepository, NutritionRepository>();
 builder.Services.AddScoped<ITourCategoriesRepository, TourCategoriesRepository>();
 builder.Services.AddScoped<IToursRepository, ToursRepository>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+builder.Services.AddDbContext<EvenToTheMoonDBContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
 
 builder.Services.AddMapper();
 builder.Services.AddServices();

@@ -11,7 +11,6 @@ namespace EvenToTheMoonEF.DAL.Entities
     {
         public string ID_Clients { get; set; }
         public User clients { get; set; }
-        public Tours tours { get; set; }
         public int ID_Tour { get; set; }
         public string Review { get; set; }
     }

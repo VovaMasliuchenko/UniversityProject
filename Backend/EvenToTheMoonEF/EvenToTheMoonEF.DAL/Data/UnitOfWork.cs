@@ -15,7 +15,6 @@ namespace EvenToTheMoonEF.DAL.Data
         readonly EvenToTheMoonDBContext context;
 
         public IReviewRepository ReviewRepository { get; }
-        public ISellsRepository SellsRepository { get; }
 
         public async Task SaveChangesAsync() => await context.SaveChangesAsync();
 
@@ -23,13 +22,11 @@ namespace EvenToTheMoonEF.DAL.Data
         public UnitOfWork
         (
         EvenToTheMoonDBContext context,
-        IReviewRepository reviewRepository,
-        ISellsRepository sellsRepository
+        IReviewRepository reviewRepository
         )
         {
           this.context = context;
           ReviewRepository = reviewRepository;
-          SellsRepository = sellsRepository;
         }
     }
 }

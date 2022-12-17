@@ -49,7 +49,11 @@ function HomePage() {
         </form>
 
         <div className="text-end d-flex align-items-center justify-content-center">
-        {userData ? <h1>{userData.role}</h1> : null}
+        <ul className="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+          <li className="m-1">{userData ? <h3>{userData.userName}</h3> : null}</li>
+          <li className="m-1">{userData ? <h3>{userData.email}</h3> : null}</li>
+          <li className="m-1">{userData ? <h3>{userData.role}</h3> : null}</li>
+        </ul>
           <button type="button" className="btn btn-warning m-2" onClick={ () => handleClick()} >Logout</button>
         </div>
       </div>

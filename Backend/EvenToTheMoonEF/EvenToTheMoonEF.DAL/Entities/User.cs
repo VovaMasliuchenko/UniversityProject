@@ -13,7 +13,6 @@ namespace EvenToTheMoonEF.DAL.Entities
         public string? RefreshToken { get; set; }
         public DateTime RefreshTokenExpiryTime { get; set; }
         public List<Reviews> reviews { get; set; }
-        public List<Sells> sells { get; set; }
 
     }
 }

@@ -12,17 +12,10 @@ namespace EvenToTheMoon_EF_.BLL.Configuration.AutoMapper
             CreateMap<Reviews, ReviewResponse>();
             CreateMap<ReviewRequest, Reviews>();
         }
-        private void CreateSellsMaps()
-        {
-            CreateMap<Sells, SellsResponse>();
-            CreateMap<SellsRequest, Sells>();
-        }
-
 
         public AutoMapperProfile()
         {
             CreateReviewMaps();
-            CreateSellsMaps();
         }
 
     }

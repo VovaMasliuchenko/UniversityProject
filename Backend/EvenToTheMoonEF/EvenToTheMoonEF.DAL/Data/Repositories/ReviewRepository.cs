@@ -19,9 +19,10 @@ namespace EvenToTheMoonEF.DAL.Data.Repositories
 
         public async Task<PagedList<Reviews>> GetReviews(ReviewParameters reviewParameters)
         {
-            return PagedList<Reviews>.ToPagedList(this.context.Set<Reviews>().OrderBy(s => s.Id),
+            var result = PagedList<Reviews>.ToPagedList(this.context.Set<Reviews>().OrderBy(s => s.Id),
             reviewParameters.PageNumber,
             reviewParameters.PageSize);
+            return result;
         }
 
     }

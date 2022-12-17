@@ -24,9 +24,13 @@ builder.Services.AddIdentity<User, IdentityRole>()
     .AddEntityFrameworkStores<EvenToTheMoonDBContext>()
     .AddDefaultTokenProviders();
 builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
-builder.Services.AddScoped<ISellsRepository, SellsRepository>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IReviewService, ReviewService>();
+
+builder.Services.AddDbContext<EvenToTheMoonDBContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
 
 builder.Services.AddControllers();
 

@@ -22,7 +22,43 @@ namespace EvenToTheMoonEF.DAL.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Clients", b =>
+            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Reviews", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("ID_Clients")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("ID_Tour")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Review")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ID_Clients");
+
+                    b.ToTable("Reviews");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            ID_Clients = "1",
+                            ID_Tour = 1,
+                            Review = "Not bad hotel!"
+                        });
+                });
+
+            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.User", b =>
                 {
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
@@ -97,319 +133,16 @@ namespace EvenToTheMoonEF.DAL.Migrations
                         {
                             Id = "1",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "1b327809-4ffd-4c66-a099-c3387a21380f",
+                            ConcurrencyStamp = "b8bc8882-b6d9-4cd2-8cd5-35a57de1d98a",
                             Email = "email@gmail.com",
                             EmailConfirmed = false,
                             LockoutEnabled = false,
                             PhoneNumber = "+380683456781",
                             PhoneNumberConfirmed = false,
                             RefreshTokenExpiryTime = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            SecurityStamp = "c5773729-2b2b-4564-ae14-c142d50b1d61",
+                            SecurityStamp = "7f757c65-35f4-4fca-9106-e3925280efff",
                             TwoFactorEnabled = false,
                             UserName = "Antony Marks"
-                        });
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Country", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<string>("CountryName")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Country");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            CountryName = "England"
-                        });
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Discount", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<string>("NameOfDiscount")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
-
-                    b.Property<int>("Size")
-                        .HasMaxLength(10)
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Discount");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            NameOfDiscount = "Summer",
-                            Size = 10
-                        });
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Hotel", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<string>("HotelClass")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
-
-                    b.Property<string>("HotelName")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
-
-                    b.Property<string>("HotelType")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Hotel");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            HotelClass = "5 stars",
-                            HotelName = "Amazing",
-                            HotelType = "Big"
-                        });
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Nutrition", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<string>("TypeNutrition")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Nutrition");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            TypeNutrition = "3 times"
-                        });
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Reviews", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<string>("ID_Clients")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<int>("ID_Tour")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Review")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ID_Clients");
-
-                    b.HasIndex("ID_Tour");
-
-                    b.ToTable("Reviews");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            ID_Clients = "1",
-                            ID_Tour = 1,
-                            Review = "Not bad hotel!"
-                        });
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Sells", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<DateTime>("DateOfSale")
-                        .HasMaxLength(20)
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("ID_Clients")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<int>("ID_Tour")
-                        .HasColumnType("int");
-
-                    b.Property<int>("SellsCount")
-                        .HasMaxLength(20)
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ID_Clients");
-
-                    b.HasIndex("ID_Tour");
-
-                    b.ToTable("Sells");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            DateOfSale = new DateTime(2021, 6, 11, 10, 0, 0, 0, DateTimeKind.Unspecified),
-                            ID_Clients = "1",
-                            ID_Tour = 1,
-                            SellsCount = 1
-                        });
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.TourCategories", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<string>("TourCategorie")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("TourCategories");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            TourCategorie = "Summer tours"
-                        });
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Tours", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<string>("CityOfDepartue")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
-
-                    b.Property<int>("CountOfPerson")
-                        .HasMaxLength(20)
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("DateOfDepartue")
-                        .HasMaxLength(20)
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("DaysAndNights")
-                        .HasMaxLength(20)
-                        .HasColumnType("int");
-
-                    b.Property<int>("ID_Country")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ID_Discount")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ID_Hotel")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ID_Nutrition")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ID_Tour_Categories")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Price")
-                        .HasMaxLength(20)
-                        .HasColumnType("int");
-
-                    b.Property<string>("Tour")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ID_Country");
-
-                    b.HasIndex("ID_Discount");
-
-                    b.HasIndex("ID_Hotel");
-
-                    b.HasIndex("ID_Nutrition");
-
-                    b.HasIndex("ID_Tour_Categories");
-
-                    b.ToTable("Tours");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            CityOfDepartue = "London",
-                            CountOfPerson = 3,
-                            DateOfDepartue = new DateTime(2021, 6, 11, 10, 0, 0, 0, DateTimeKind.Unspecified),
-                            DaysAndNights = 4,
-                            ID_Country = 1,
-                            ID_Discount = 1,
-                            ID_Hotel = 1,
-                            ID_Nutrition = 1,
-                            ID_Tour_Categories = 1,
-                            Price = 0,
-                            Tour = "Greatest Summer Tour"
                         });
                 });
 
@@ -548,83 +281,13 @@ namespace EvenToTheMoonEF.DAL.Migrations
 
             modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Reviews", b =>
                 {
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Clients", "clients")
+                    b.HasOne("EvenToTheMoonEF.DAL.Entities.User", "clients")
                         .WithMany("reviews")
                         .HasForeignKey("ID_Clients")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Tours", "tours")
-                        .WithMany("reviews")
-                        .HasForeignKey("ID_Tour")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.Navigation("clients");
-
-                    b.Navigation("tours");
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Sells", b =>
-                {
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Clients", "clients")
-                        .WithMany("sells")
-                        .HasForeignKey("ID_Clients")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Tours", "tours")
-                        .WithMany("sells")
-                        .HasForeignKey("ID_Tour")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("clients");
-
-                    b.Navigation("tours");
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Tours", b =>
-                {
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Country", "country")
-                        .WithMany("tours")
-                        .HasForeignKey("ID_Country")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Discount", "discount")
-                        .WithMany("tours")
-                        .HasForeignKey("ID_Discount")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Hotel", "hotel")
-                        .WithMany("tours")
-                        .HasForeignKey("ID_Hotel")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Nutrition", "nutrition")
-                        .WithMany("tours")
-                        .HasForeignKey("ID_Nutrition")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.TourCategories", "tourCategories")
-                        .WithMany("tours")
-                        .HasForeignKey("ID_Tour_Categories")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("country");
-
-                    b.Navigation("discount");
-
-                    b.Navigation("hotel");
-
-                    b.Navigation("nutrition");
-
-                    b.Navigation("tourCategories");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -638,7 +301,7 @@ namespace EvenToTheMoonEF.DAL.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
                 {
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Clients", null)
+                    b.HasOne("EvenToTheMoonEF.DAL.Entities.User", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -647,7 +310,7 @@ namespace EvenToTheMoonEF.DAL.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Clients", null)
+                    b.HasOne("EvenToTheMoonEF.DAL.Entities.User", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -662,7 +325,7 @@ namespace EvenToTheMoonEF.DAL.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Clients", null)
+                    b.HasOne("EvenToTheMoonEF.DAL.Entities.User", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -671,50 +334,16 @@ namespace EvenToTheMoonEF.DAL.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
                 {
-                    b.HasOne("EvenToTheMoonEF.DAL.Entities.Clients", null)
+                    b.HasOne("EvenToTheMoonEF.DAL.Entities.User", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Clients", b =>
+            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.User", b =>
                 {
                     b.Navigation("reviews");
-
-                    b.Navigation("sells");
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Country", b =>
-                {
-                    b.Navigation("tours");
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Discount", b =>
-                {
-                    b.Navigation("tours");
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Hotel", b =>
-                {
-                    b.Navigation("tours");
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Nutrition", b =>
-                {
-                    b.Navigation("tours");
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.TourCategories", b =>
-                {
-                    b.Navigation("tours");
-                });
-
-            modelBuilder.Entity("EvenToTheMoonEF.DAL.Entities.Tours", b =>
-                {
-                    b.Navigation("reviews");
-
-                    b.Navigation("sells");
                 });
 #pragma warning restore 612, 618
         }

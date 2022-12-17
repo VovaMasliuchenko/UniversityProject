@@ -14,7 +14,6 @@ namespace BLL.Registration
     {
         public static IServiceCollection AddServices(this IServiceCollection services) => services
             .AddTransient<IReviewService, ReviewService>()
-            .AddTransient<ISellsService, SellsService>()
        ;
     }
 }
