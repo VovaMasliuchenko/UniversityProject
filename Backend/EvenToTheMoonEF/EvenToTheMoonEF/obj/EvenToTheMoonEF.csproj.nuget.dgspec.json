@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\EvenToTheMoonEF.BLL\\EvenToTheMoonEF.BLL.csproj",
         "projectName": "EvenToTheMoonEF.BLL",
         "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\EvenToTheMoonEF.BLL\\EvenToTheMoonEF.BLL.csproj",
-        "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\vovam\\.nuget\\packages\\",
         "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\EvenToTheMoonEF.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vovam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,6 +67,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.5, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[7.0.1, )"
             }
           },
           "imports": [
@@ -75,7 +79,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -94,11 +99,11 @@
         "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\EvenToTheMoonEF.DAL\\EvenToTheMoonEF.DAL.csproj",
         "projectName": "EvenToTheMoonEF.DAL",
         "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\EvenToTheMoonEF.DAL\\EvenToTheMoonEF.DAL.csproj",
-        "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\vovam\\.nuget\\packages\\",
         "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\EvenToTheMoonEF.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vovam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -159,7 +164,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -168,7 +174,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -178,11 +184,11 @@
         "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\EvenToTheMoonEF\\EvenToTheMoonEF.csproj",
         "projectName": "EvenToTheMoonEF",
         "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\EvenToTheMoonEF\\EvenToTheMoonEF.csproj",
-        "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\vovam\\.nuget\\packages\\",
         "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\EvenToTheMoonEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vovam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -198,6 +204,9 @@
             "projectReferences": {
               "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\EvenToTheMoonEF.BLL\\EvenToTheMoonEF.BLL.csproj": {
                 "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\EvenToTheMoonEF.BLL\\EvenToTheMoonEF.BLL.csproj"
+              },
+              "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\RabbitMQModels\\RabbitMQModels.csproj": {
+                "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\RabbitMQModels\\RabbitMQModels.csproj"
               }
             }
           }
@@ -212,6 +221,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.9, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.9, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.5, )"
@@ -226,6 +243,10 @@
               "target": "Package",
               "version": "[6.0.5, )"
             },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -237,7 +258,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -249,7 +271,62 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\RabbitMQModels\\RabbitMQModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\RabbitMQModels\\RabbitMQModels.csproj",
+        "projectName": "RabbitMQModels",
+        "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\RabbitMQModels\\RabbitMQModels.csproj",
+        "packagesPath": "C:\\Users\\vovam\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoonEF\\RabbitMQModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vovam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

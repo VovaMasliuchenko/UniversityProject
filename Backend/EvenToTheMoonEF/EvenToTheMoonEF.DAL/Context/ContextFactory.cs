@@ -15,7 +15,7 @@ namespace EvenToTheMoonEF.DAL.Context
         {
             var optionsBuilder = new DbContextOptionsBuilder<EvenToTheMoonDBContext>();
 
-            optionsBuilder.UseSqlServer("Server=DESKTOP-7OJO846\\SQLEXPRESS; Database=EvenToTheMoonEntityFramework;Integrated Security=True;");
+            optionsBuilder.UseSqlServer("Server=DESKTOP-L0COR8H\\SQLEXPRESS; Database=EvenToTheMoonEntityFramework;Integrated Security=True;");
             return new EvenToTheMoonDBContext(optionsBuilder.Options);
         }
     }

@@ -1,9 +1,11 @@
 using BLL.Registration;
+using EvenToTheMoon.BLL.Services;
 using EvenToTheMoon.DAL.Data;
 using EvenToTheMoon.DAL.Data.Repositories;
 using EvenToTheMoon.DAL.Interfaces;
 using EvenToTheMoon.DAL.Interfaces.Repositories;
 using EvenToTheMoonEF.DAL.Context;
+using MassTransit;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -57,6 +59,26 @@ builder.Services.AddDbContext<EvenToTheMoonDBContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+
+
+
+builder.Services.AddMassTransit(x =>
+{
+    x.AddConsumer<UserConsumer>();
+
+    x.UsingRabbitMq((context, cfg) =>
+    {
+        cfg.Host("rabbitmq://localhost:5672");
+
+        cfg.ReceiveEndpoint("user-queue", ep =>
+        {
+            ep.PrefetchCount = 20;
+            ep.ConfigureConsumer<UserConsumer>(context);
+        });
+    });
+});
+
+
 
 builder.Services.AddMapper();
 builder.Services.AddServices();

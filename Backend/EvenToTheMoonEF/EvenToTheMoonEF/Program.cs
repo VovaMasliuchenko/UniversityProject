@@ -13,6 +13,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using EvenToTheMoon_EF_.BLL.Interfaces.Services;
 using BLL.Services;
+using MassTransit;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -60,6 +61,33 @@ builder.Services.AddAuthentication(options =>
 
 builder.Services.AddMapper();
 builder.Services.AddServices();
+
+
+
+
+
+builder.Services.AddStackExchangeRedisCache(options =>
+{
+    options.Configuration = builder.Configuration.GetConnectionString("Redis");
+    options.InstanceName = "RedisReview";
+});
+
+builder.Services.AddMassTransit(x =>
+{
+
+    x.AddBus(provider => Bus.Factory.CreateUsingRabbitMq(config =>
+    {
+        config.Host(new Uri("rabbitmq://lcoalhost:5672"), h =>
+        {
+            h.Username("guest");
+            h.Password("guest");
+        });
+        config.Message<UserQueueRequest>(x => { });
+    }));
+});
+
+
+
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

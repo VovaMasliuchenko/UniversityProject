@@ -1,11 +1,14 @@
-﻿using EvenToTheMoonEF.BLL.DTO.Responses;
+﻿using AutoMapper;
+using EvenToTheMoonEF.BLL.DTO.Responses;
 using EvenToTheMoonEF.BLL.Helpers;
 using EvenToTheMoonEF.DAL.Entities;
 using JWTRefreshToken.NET6._0.Auth;
+using MassTransit;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
+using RabbitMQModels.Models;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
@@ -20,15 +23,21 @@ namespace JWTRefreshToken.NET6._0.Controllers
         private readonly UserManager<User> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly IConfiguration _configuration;
+        private readonly IBusControl _bus;
+        private readonly IMapper _mapper;
 
         public AuthenticateController(
             UserManager<User> userManager,
             RoleManager<IdentityRole> roleManager,
+            IMapper mapper,
+            IBusControl bus,
             IConfiguration configuration)
         {
             _userManager = userManager;
             _roleManager = roleManager;
             _configuration = configuration;
+            _bus = bus;
+            _mapper = mapper;
         }
 
         [AllowAnonymous]
@@ -80,7 +89,7 @@ namespace JWTRefreshToken.NET6._0.Controllers
         {
             var userExists = await _userManager.FindByNameAsync(model.Username);
             if (userExists != null)
-                return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "User already exists!" });
+                return StatusCode(StatusCodes.Status500InternalServerError, new Auth.Response { Status = "Error", Message = "User already exists!" });
 
             User user = new()
             {
@@ -90,7 +99,7 @@ namespace JWTRefreshToken.NET6._0.Controllers
             };
             var result = await _userManager.CreateAsync(user, model.Password);
             if (!result.Succeeded)
-                return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "User creation failed! Please check user details and try again." });
+                return StatusCode(StatusCodes.Status500InternalServerError, new Auth.Response { Status = "Error", Message = "User creation failed! Please check user details and try again." });
 
             if (!await _roleManager.RoleExistsAsync(UserRoles.User))
                 await _roleManager.CreateAsync(new IdentityRole(UserRoles.User));
@@ -100,7 +109,9 @@ namespace JWTRefreshToken.NET6._0.Controllers
                 await _userManager.AddToRoleAsync(user, UserRoles.User);
             }
 
-            return Ok(new Response { Status = "Success", Message = "User created successfully!" });
+            var queueUser = _mapper.Map<UserQueueRequest>(model);
+            await _bus.Publish(queueUser);
+            return Ok(new Auth.Response { Status = "Success", Message = "User created successfully!" });
         }
 
         [Authorize(Roles = UserRoles.Admin)]
@@ -110,7 +121,7 @@ namespace JWTRefreshToken.NET6._0.Controllers
         {
             var userExists = await _userManager.FindByNameAsync(model.Username);
             if (userExists != null)
-                return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "User already exists!" });
+                return StatusCode(StatusCodes.Status500InternalServerError, new Auth.Response { Status = "Error", Message = "User already exists!" });
 
             User user = new()
             {
@@ -120,7 +131,7 @@ namespace JWTRefreshToken.NET6._0.Controllers
             };
             var result = await _userManager.CreateAsync(user, model.Password);
             if (!result.Succeeded)
-                return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "User creation failed! Please check user details and try again." });
+                return StatusCode(StatusCodes.Status500InternalServerError, new Auth.Response { Status = "Error", Message = "User creation failed! Please check user details and try again." });
 
             if (!await _roleManager.RoleExistsAsync(UserRoles.Admin))
                 await _roleManager.CreateAsync(new IdentityRole(UserRoles.Admin));
@@ -129,7 +140,7 @@ namespace JWTRefreshToken.NET6._0.Controllers
             {
                 await _userManager.AddToRoleAsync(user, UserRoles.Admin);
             }
-            return Ok(new Response { Status = "Success", Message = "User created successfully!" });
+            return Ok(new Auth.Response { Status = "Success", Message = "User created successfully!" });
         }
 
         [Authorize]

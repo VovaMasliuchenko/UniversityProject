@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj",
         "projectName": "EvenToTheMoon.DAL",
         "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj",
-        "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\vovam\\.nuget\\packages\\",
         "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vovam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +79,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -88,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

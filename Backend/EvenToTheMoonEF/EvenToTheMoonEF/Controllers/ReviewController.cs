@@ -44,6 +44,13 @@ namespace EvenToTheMoonEF.Controllers
         }
 
         [AllowAnonymous]
+        [HttpGet("GetReviewById")]
+        public async Task<ActionResult<ReviewResponse>> GetReviewById(int id)
+        {
+            return Ok(await _reviewService.GetByIdAsync(id));
+        }
+
+        [AllowAnonymous]
         [HttpPost]
         public async Task<IActionResult> Add([FromBody] ReviewRequest request)
         {

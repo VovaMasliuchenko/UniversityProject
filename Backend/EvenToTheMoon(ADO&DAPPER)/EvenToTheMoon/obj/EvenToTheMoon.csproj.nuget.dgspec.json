@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj",
         "projectName": "EvenToTheMoon.BLL",
         "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\EvenToTheMoon.BLL.csproj",
-        "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\vovam\\.nuget\\packages\\",
         "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vovam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,6 +30,9 @@
             "projectReferences": {
               "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj": {
                 "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj"
+              },
+              "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\RabbitMQModels\\RabbitMQModels.csproj": {
+                "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\RabbitMQModels\\RabbitMQModels.csproj"
               }
             }
           }
@@ -52,6 +55,14 @@
               "target": "Package",
               "version": "[11.0.0, )"
             },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.9, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.9, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[6.0.5, )"
@@ -71,7 +82,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -80,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -90,11 +102,11 @@
         "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj",
         "projectName": "EvenToTheMoon.DAL",
         "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\EvenToTheMoon.DAL.csproj",
-        "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\vovam\\.nuget\\packages\\",
         "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vovam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -159,7 +171,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -168,7 +181,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -178,11 +191,11 @@
         "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\EvenToTheMoon.csproj",
         "projectName": "EvenToTheMoon",
         "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\EvenToTheMoon.csproj",
-        "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\vovam\\.nuget\\packages\\",
         "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\EvenToTheMoon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vovam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -212,6 +225,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.9, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.9, )"
+            },
             "Microsoft.AspNetCore": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -251,7 +272,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -263,7 +285,62 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\RabbitMQModels\\RabbitMQModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\RabbitMQModels\\RabbitMQModels.csproj",
+        "projectName": "RabbitMQModels",
+        "projectPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\RabbitMQModels\\RabbitMQModels.csproj",
+        "packagesPath": "C:\\Users\\vovam\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\UniversityProject\\Backend\\EvenToTheMoon(ADO&DAPPER)\\RabbitMQModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vovam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

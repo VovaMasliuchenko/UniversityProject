@@ -2,11 +2,14 @@
 using EvenToTheMoon_EF_.BLL.DTO.Requests;
 using EvenToTheMoon_EF_.BLL.Interfaces.Services;
 using EvenToTheMoon_EF_.DTO.Responses;
+using EvenToTheMoonEF.BLL.Helpers;
 using EvenToTheMoonEF.DAL.Data.Repositories;
 using EvenToTheMoonEF.DAL.Entities;
 using EvenToTheMoonEF.DAL.Entities.Models;
 using EvenToTheMoonEF.DAL.Interfaces;
 using EvenToTheMoonEF.DAL.Interfaces.Repositories;
+using Microsoft.Extensions.Caching.Distributed;
+using Microsoft.Extensions.Caching.StackExchangeRedis;
 
 namespace BLL.Services
 {
@@ -17,15 +20,19 @@ namespace BLL.Services
 
         private readonly IMapper mapper;
 
-        public ReviewService(IMapper _mapper, IUnitOfWork _unitOfWork)
+        private readonly IDistributedCache _redisCache;
+
+        public ReviewService(IMapper _mapper, IUnitOfWork _unitOfWork, IDistributedCache redisCache)
         {
             mapper = _mapper;
             unitOfWork = _unitOfWork;
+            _redisCache = redisCache;
         }
 
-        public Task DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            await _redisCache.RemoveAsync(id.ToString());
+            unitOfWork.ReviewRepository.Delete(id);
         }
 
         public Task<IEnumerable<ReviewResponse>> GetAsync()
@@ -45,9 +52,16 @@ namespace BLL.Services
             return mapper.Map<List<ReviewResponse>>(review);
         }
 
-        public Task<ReviewResponse> GetByIdAsync(int id)
+        public async Task<ReviewResponse> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            var response = await _redisCache.GetRecordAsync<ReviewResponse>(id.ToString());
+            if(response == null)
+            {
+                var review = await unitOfWork.ReviewRepository.GetById(id);
+                response = mapper.Map<ReviewResponse>(review);
+                await _redisCache.SetRecordAsync(id.ToString(), response);
+            }
+            return response;
         }
 
         public async Task InsertAsync(ReviewRequest request)
